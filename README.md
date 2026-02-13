@@ -1,6 +1,6 @@
 # Hi, I'm Sahana 👋
 
-🎓 MSc Data Analytics Student  
+🎓 MSc Data Analytics   
 📍 Erlangen, Germany  
 📊 Aspiring Data Analyst / Data Engineer  
 
