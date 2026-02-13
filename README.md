@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Sahana 👋
 
-<!--
-**SahanaVenugopalreddy/SahanaVenugopalreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Analytics Student  
+📍 Erlangen, Germany  
+📊 Aspiring Data Analyst / Data Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am passionate about transforming raw data into meaningful insights.  
+With experience in SQL, Python, and Power BI, I enjoy building dashboards, designing databases, and exploring data engineering concepts.
+
+Currently focusing on:
+- Data lifecycle management
+- SQL optimization
+- Dashboard development
+- Machine Learning applications
+
+---
+
+## 🛠 Technical Skills
+
+**Languages & Tools**
+- SQL
+- Python (Pandas, NumPy)
+- Power BI
+- Tableau
+- MySQL
+- Git & GitHub
+
+**Areas of Interest**
+- Data Analytics
+- Data Engineering
+- Business Intelligence
+- Machine Learning
+
+---
+
+## 📂 Featured Projects
+(Projects coming soon — actively building and uploading!)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/sahana-k-v-297724319
+- Email: sahanakv1996@gmail.com
